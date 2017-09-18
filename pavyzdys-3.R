@@ -1,5 +1,5 @@
 suma <- sum(3, 2, 5)
 
 
-# Å iÄ… eilutÄ™ reikia iÅ¡trinti
-# ...
+
+# Auğra Sveikinu atlikus uşduotá!
